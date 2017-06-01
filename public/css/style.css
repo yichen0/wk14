@@ -1,0 +1,38 @@
+ul li {
+  cursor: pointer;
+}
+ul li:hover{
+  background: 	#DDA0DD;
+}
+footer {
+      background-color: 	#00477D;
+      color: white;
+      padding: 15px;
+}
+#bookdetail{
+  margin-top: 30px;
+   padding: 15px;
+}
+#headtext{
+  color:#F8F8FF;
+  font-family:fantasy;
+}
+.detail{
+  width: 80%;
+  height: 500px;
+  background: lightblue;
+  padding-top: 50px;
+  text-align: center;}
+.detail h3{
+  margin: 100px 0;
+  font-weight: 600;
+  color: 	#FFF0F5;
+}
+.detail div{
+  margin-bottom: 30px;
+  color: 	#FFF0F5;
+}
+.detail p{
+  margin-bottom: 30px;
+  color: 	#FFF0F5;
+}
